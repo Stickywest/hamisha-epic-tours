@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../assets/logo.jpg";
+import Logo from "../assets/logo5.jpeg";
 
 const Navbar: React.FC = () => {
   const [isServicesDropdownOpen, setIsServicesDropdownOpen] = useState(false);
@@ -16,7 +16,7 @@ const Navbar: React.FC = () => {
             className="h-12 w-auto"
           />
           <span className="text-2xl font-bold text-[#C56D00]">
-            Hamisha Epics Tour
+            Diamond Tours & Travels
           </span>
         </div>
 

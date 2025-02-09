@@ -9,7 +9,7 @@ const HomePage = () => {
     <div className="bg-gray-100 min-h-screen">
       {/* Hero Section */}
       <section className="text-center py-10 bg-gradient-to-r from-[#105A89] to-[#C56D00] text-white">
-        <h1 className="text-4xl font-bold">Welcome to Hamisha Epic Tours</h1>
+        <h1 className="text-4xl font-bold">Welcome to Diamond dove Tours and Travel</h1>
         <p className="text-xl mt-4">Experience the best travel deals and memorable adventures!</p>
       </section>
 
